@@ -1,0 +1,2 @@
+# sdico
+Sistema de informacion

@@ -1,2 +1,2 @@
 # sdico
-Sistema de informacion
+Sistema de informacion para el manejo de tal
